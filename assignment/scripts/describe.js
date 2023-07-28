@@ -151,6 +151,7 @@ const time = 4;
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
+  FIX- || notate either condition can be met for the console.log to return with 'throw away the food!!'. For the fix, the || sould be replaced with && so that both conditionals must be met for the log to return "throw away the food!" as stated by the origional prompt.
 }
 */
 
