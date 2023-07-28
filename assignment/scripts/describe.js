@@ -70,9 +70,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// This code sets up a number of responses depending on if the variables meet the conditions in the "if else if else" conditional. If student is exatly true ane the zip code is greater than 8000 then the return in the console log will be "You are a student on the west coast!"
+// If student is exatly flase and the age variable is less then 30 then the return will be "What are you hobbies?". If student is exatly true, the console log return will be "Welcome to Prime!". And if none of those conditionals are met then the return wil be "How about the weather?". We also set variables for student, age, and zip to use for this code.
+//In this case, the code will return with "Welcome to Prime!" 
 //
 
 //CODE
