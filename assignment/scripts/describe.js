@@ -26,9 +26,9 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We are making a variable for the name Dane.
+// We are asking that if the name exactly matched Mary, then our console log with come back with, "Hi, Mary!". Any other name and it way come back with "How do you do?".
+// In this code we will get "How do you do?" as the console log output since the name variable is sate to Dane.
 //
 
 //CODE
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// This creates a chain of code that will set the variable for ssecret.
+// The first if conditional statement says if the code is exactly 123 then secret will return with "super" and then will mutiply the code value by 2.
+// The second conditional if statement say if the code is greater thnk 250 the secret variable will equal duper when entered into the console log.
+//In this code, secret will only return with super as code will be less than 250.
 
 //CODE
 /*
