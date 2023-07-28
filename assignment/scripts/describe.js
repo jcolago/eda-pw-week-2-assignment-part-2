@@ -136,6 +136,8 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  FIX - colorTwo is not listed at all in the code. I would add a line and add 
+  colorTwo = 'purple'
 }
 */
 
