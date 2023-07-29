@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// This creates a chain of code that will set the variable for ssecret.
+// First we make variable for secret and code. We set code to 123 and secret will set the variagle for secret.
 // The first if conditional statement says if the code is exactly 123 then secret will return with "super" and then will mutiply the code value by 2.
-// The second conditional if statement say if the code is greater thnk 250 the secret variable will equal duper when entered into the console log.
+// The second conditional if statement says if the code is greater than 250 the secret variable will equal duper when entered into the console log.
 //In this code, secret will only return with super as code will be less than 250.
 
 //CODE
@@ -70,7 +70,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// This code sets up a number of responses depending on if the variables meet the conditions in the "if else if else" conditional. If student is exatly true ane the zip code is greater than 8000 then the return in the console log will be "You are a student on the west coast!"
+// We start by setting up variables for isStudent, age, and zip. 
+//This code then sets up a number of responses depending on if the variables meet the conditions in the "if else if else" conditional. If student is exatly true ane the zip code is greater than 8000 then the return in the console log will be "You are a student on the west coast!"
 // If student is exatly flase and the age variable is less then 30 then the return will be "What are you hobbies?". If student is exatly true, the console log return will be "Welcome to Prime!". And if none of those conditionals are met then the return wil be "How about the weather?". We also set variables for student, age, and zip to use for this code.
 //In this case, the code will return with "Welcome to Prime!" 
 //
@@ -162,6 +163,14 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
+
+FIX - to fit the code to meet the instructions, the code should look like this:
+if(age >= minAge){
+  console.log('enter');
+} else {
+  console.log('no entry');
+}
+We swittch age and minAge in the first like and change the <= for >=. We then have to switch 'entry' and 'no entry' to get the desired results for the code.
 
 if(minAge <= age) {
   console.log('no entry');
