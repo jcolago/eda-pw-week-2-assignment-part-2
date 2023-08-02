@@ -134,11 +134,11 @@ if (number >= 2) {
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
+FIX - colorOne and colorTwo are switched. Should be: let colorOne = 'blue' and let colorTwo = 'red' per the instructions given.
 
 if (mix === true) {
   colorOne = 'purple';
-  FIX - colorTwo is not listed at all in the code. I would add a line and add 
-  colorTwo = 'purple'
+  FIX - colorTwo is not listed at all in the if code. I would add a line and add: colorTwo = 'purple'
 }
 */
 
